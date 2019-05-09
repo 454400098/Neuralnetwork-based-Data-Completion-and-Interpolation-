@@ -1,4 +1,3 @@
-Source,Target
 big5_06,intrinsic_01
 big5_09,intrinsic_01
 intrinsic_02,intrinsic_01
@@ -489,3 +488,6 @@ nfc_06,pate_04
 stress_01,stress_02
 big5_08,nfc_02
 nfc_01,nfc_05
+mcsome1,tempest1
+intrinsic_11,tempest2
+mcmost2,tempest3
